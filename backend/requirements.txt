@@ -1,0 +1,9 @@
+# FastAPI web framework and ASGI server
+fastapi==0.115.12
+uvicorn[standard]==0.34.3
+
+# Data validation and settings management (2.13+ supports Python 3.14)
+pydantic==2.13.0
+
+# OpenAI API client for AI-powered cost analysis
+openai==1.68.2
